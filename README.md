@@ -4,10 +4,12 @@
 PHP System CMS, secure and easy to use , full responsive, handle sessions, login, secuirty, sql  injection
 you need laragon only to use it 
 
-* clone this repo
-* download laragon
+
+* download [https://laragon.org/]
 * install it 
 * now click on laragon start server, wait for apache and mySQL start
+* extract it inside the laragon/www folder
+* clone this repo
 * visit php myadmin localhost/phpmyadmin
 * create database must name is myadmin1
 * inside myadmin1 folder you will find file name db click on  export on phpmyadmin and use this file
