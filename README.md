@@ -7,10 +7,10 @@ you need laragon only to use it
 
 ## last added features:
 
-1- more secure from sql injection.
-2- Super Professional AJAX Live chat, I said Live becuase it updated automtic using AJAX.
-3- super Advanced notifications, updated live with AJAX.
-4- added pagination to make it more easy to use.
+1.  more secure from sql injection.
+2.  Super Professional AJAX Live chat, I said Live becuase it updated automtic using AJAX.
+3.  super Advanced notifications, updated live with AJAX.
+4.  added pagination to make it more easy to use.
 
 
 * download [https://laragon.org/]
